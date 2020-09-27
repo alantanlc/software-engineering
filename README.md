@@ -7,10 +7,10 @@ Source: [reddit](https://www.reddit.com/r/SoftwareEngineering/comments/j00axh/so
 ## Workflow
 
 1. [Organization](#organization)
-1. [Estimation & Commitment](#estimation-&-commitment)
+1. [Estimation & Commitment](#estimation--commitment)
 1. [Prioritization](#prioritization)
 1. [Execution](#execution)
-1. [Review & Delivery](#review-&-delivery)
+1. [Review & Delivery](#review--delivery)
 1. [Presentation](#presentation)
 1. [Reflection](#reflection)
 
