@@ -4,6 +4,8 @@ Software Engineer Workflow for Individual Contributors.
 
 Source: [reddit](https://www.reddit.com/r/SoftwareEngineering/comments/j00axh/software_engineer_workflow_whats_missing/)
 
+![software-engineer-workflow](./assets/img/software_engineer_workflow.png)
+
 ## Workflow
 
 1. [Organization](#organization)
